@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-v1404" alt="sandeep-v1404" /> </p>
 
-- 🔭 I’m currently working on **Web Apps**
+- 🔭 I’m currently working on **Web Apps with Angular**
 
-- 🌱 I’m currently learning **Data Analysis with Python ,Web Develpoment**
+- 🌱 I’m currently learning **Angular ,Web Development**
 
 - 🤝 I’m looking for help with **Blogging , Machine Learning**
 
-- 👨‍💻 All of my projects are available at [Here](https://sandeep-v1404.github.io/cv-css/)
+- 👨‍💻 All of my projects are available at [Here](https://sandeep-v1404.github.io/portfolio_bootstrap/)
 
-- 💬 Ask me about **React ,Node, Python**
+- 💬 Ask me about **Angular,React ,Node, Python**
 
 - 📫 How to reach me **valpasanisandeep@gmail.com**
 
