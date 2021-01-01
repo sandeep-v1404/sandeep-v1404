@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">A passionate Web Developer , Learner , Coder from India</h3>
+<h3 align="center">A passionate Web Developer, Designer, Learner, Coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-v1404" alt="sandeep-v1404" /> </p>
 
