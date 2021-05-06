@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-v1404&label=Profile%20views&color=0e75b6&style=plastic" alt="sandeep-v1404" /> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **NextJS, PostgreSQL, GraphQL**
 
 - 🌱 I’m currently learning **Linux**
 
