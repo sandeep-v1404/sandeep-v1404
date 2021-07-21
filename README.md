@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Blogging , Machine Learning**
 
-- 👨‍💻 All of my projects are available [Here](https://sandeep-v1404.github.io/portfolio_bootstrap/)
+- 👨‍💻 All of my projects are available [Here](https://sandeep-v1404.github.io/)
 
 - 💬 Ask me about **Angular, React, Node, Python**
 
