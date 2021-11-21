@@ -4,7 +4,7 @@
 ![-------------------------------------------------------------](./images/rainbow.png)
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=795547&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Sandeep;+An+Open+Source+Enthusiast+☀;Full+Stack+Web+Developer+💻;I+Love+Building+Projects+🛠;Exploring DevOps;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23795547&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Sandeep;+An+Open+Source+Enthusiast+☀;Full+Stack+Web+Developer+💻;Exploring DevOps;">
 </p>
 
 ![-------------------------------------------------------------](./images/rainbow.png)
