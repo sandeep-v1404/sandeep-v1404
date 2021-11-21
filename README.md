@@ -1,5 +1,5 @@
 <!-- ----------- HEAD SECTION START ------------ -->
-<img src="https://res.cloudinary.com/dgasye24d/image/upload/v1637508863/products/sandeep-banner_wubux6.png" />
+<img src="./images/sandeep-banner.png" />
 
 ![-------------------------------------------------------------](./images/rainbow.png)
 
