@@ -1,45 +1,86 @@
-<h1 align="center">Hey Everyone👋, Sandeep Here!</h1>
-<h3 align="center">A enthusiastic Web Developer/Geek/Programmer from India</h3>
+<!-- ----------- HEAD SECTION START ------------ -->
+<img src="https://res.cloudinary.com/dgasye24d/image/upload/v1637508863/products/sandeep-banner_wubux6.png" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-v1404&label=Profile%20views&color=0e75b6&style=plastic" alt="sandeep-v1404" /> </p>
+![-------------------------------------------------------------](./images/rainbow.png)
 
-- 🔭 I’m currently working on **NextJS, PostgreSQL, GraphQL**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=795547&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋,+I'm+Sandeep;+An+Open+Source+Enthusiast+☀;Full+Stack+Web+Developer+💻;I+Love+Building+Projects+🛠;Exploring DevOps;">
+</p>
+
+![-------------------------------------------------------------](./images/rainbow.png)
+
+<!-- ----------- HEAD SECTION END ------------ -->
+
+<!-- ----------- CONTENT SECTION START ------------ -->
+
+- 🔭 I’m currently working on **Docker and Kubernetes**
 
 - 🌱 I’m currently learning **Linux**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 🤝 I’m looking for help with **Blogging , Machine Learning**
-
 - 👨‍💻 All of my projects are available [Here](https://sandeep-v1404.github.io/)
 
-- 💬 Ask me about **Angular, React, Node, Python**
+- 💬 Ask me about **Full Stack Web Development**
 
 - 📫 How to reach me **valpasanisandeep@gmail.com**
 
-- ⚡ Fun fact **Rowing Two Boats**
+<img align="right" src="https://komarev.com/ghpvc/?username=sandeep-v1404&style=flat-square&color=795547">
+<hr>
 
-<h3 align="left">Connect with me:</h3>
-  <p align="left"> <a href="https://dev.to/sandeepv1404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sandeepv1404" height="30" width="40" /></a> <a href="https://twitter.com/sandeep_v1404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sandeep_v1404" height="30" width="40" /></a> <a href="https://linkedin.com/in/sandeep1404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sandeep1404" height="30" width="40" /></a> <a href="https://fb.com/sandeep.v1404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sandeep.v1404" height="30" width="40" /></a> <a href="https://instagram.com/sandeep._.v144" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sandeep._.v144" height="30" width="40" /></a></p>
-<h3 align="left">Technologies and Tools which I use:</h3>
+<!-- ----------- CONTENT SECTION END ------------ -->
 
-- Web/App Development:
-  <p align="left"><a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>  </a><a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a></p>
+<!-- ----------- STATS SECTION START ------------ -->
+<div>
+<img src="https://activity-graph.herokuapp.com/graph?username=sandeep-v1404&theme=radical&bg_color=00000000&point=00000000&line=795747&hide_border=true&custom_title=Learn,+Explore,+and+Give+back...&color=795547&area=true&area_color=795547">
+</div>
 
-- Programming Languages:
-  <p align="left"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeep-v1404&show_icons=true&count_private=true&icon_color=795547&title_color=795547&color=1fdbd8&bg_color=000000&border_color=795547&text_color=795547" />
 
-- Tools:
-  <p align="left"><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/></a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a>
-  </p>
-  
-- Operating Systems :
-   <p align="left"> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=sandeep-v1404&date_format=M%20j%5B%2C%20Y%5D&sideNums=795547&ring=795547&background=000000&dates=795547&currStreakNum=795547&currStreakLabel=795547&fire=795547&sideLabels=795547&stroke=795547&border=795547" />
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep-v1404&show_icons=true&theme=light&locale=en&layout=compact" alt="sandeep-v1404" /></p>
+![-------------------------------------------------------------](./images/rainbow.png)
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeep-v1404&show_icons=true&theme=light&locale=en" alt="sandeep-v1404" /></p>
 
+<!-- ----------- STATS SECTION END ------------ -->
+
+<!-- ----------- TECH STACK SECTION START ------------ -->
+
+### 🍁 Tech Stack :
+
+
+|               |           |
+|       ---     |    ---    |
+| `Development`     | ![HTML5](https://img.shields.io/badge/-HTML5-CC2400?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-E24800?style=for-the-badge&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-FE7601?style=for-the-badge&logo=javascript)  ![JavaScript](https://img.shields.io/badge/-Typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![ChakraUI](https://img.shields.io/badge/chakraUI-6cc7ba.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/Angular-256fc5.svg?style=for-the-badge&logo=angular&logoColor=e14f31) ![Node.js](https://img.shields.io/badge/nodejs-77b65d.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-eeeeee.svg?style=for-the-badge&logo=express&logoColor=black)   ![MongoDB](https://img.shields.io/badge/mongodb-62ac52.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Nest.js](https://img.shields.io/badge/nest.js-e3524e?style=for-the-badge&logo=nestjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/graphql-e25c97?style=for-the-badge&logo=graphql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)  |
+| `Languages`   | ![Java](https://img.shields.io/badge/-Java-cd470a?style=for-the-badge&logo=java) ![Python](https://img.shields.io/badge/-Python-1F65AC?style=for-the-badge&logo=Python&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-307BBD?style=for-the-badge&logo=mysql&logoColor=white)|
+| `Scripting`   | ![Bash](https://img.shields.io/badge/bash-8aeb0c.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+| `Tools`       | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-682181?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-AA2690?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-AA42F1.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-529fc1.svg?style=for-the-badge&logo=netlify&logoColor=white)|
+| `UI/UX` |  ![Canva](https://img.shields.io/badge/canva-3271E5.svg?style=for-the-badge&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+| `Environment`       | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)|
+
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- ----------- TECH STACK SECTION END------------ -->
+
+<!-- ----------- BANNER SECTION START ------------ -->
+
+![banner.png](./images/header.png)
+![-------------------------------------------------------------](./images/rainbow.png)
+
+<!-- ----------- BANNER SECTION END ------------ -->
+
+<!-- ----------- SOCIAL SECTION START ------------ -->
+
+<h2 align="center">Connect with me</h2>
+
+<p align="center">
+<a href="https://discordapp.com/users/Sandeep#8921/" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="aryamanz29"/></a> <a href="https://www.linkedin.com/in/sandeep1404/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="sandeep_linkedin"/></a> <a href="https://instagram.com/sandeep_v144" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="sandeep_v144" /></a>
+<a href="https://dev.to/sandeepv1404" target="blank"><img align="center" src="https://img.shields.io/badge/DEV.TO-ffffff?style=for-the-badge&logo=devdotto&logoColor=black" alt="sandeepv1404" /></a>
+<br>
+<br>
+<a href="https://twitter.com/sandeep_v1404" target="blank"><img src="https://img.shields.io/twitter/follow/sandeep_v1404?logo=twitter&style=for-the-badge" alt="sandeep_v1404" /></a>
+</p>
+
+![-------------------------------------------------------------](./images/rainbow.png)
+
+<!-- ----------- SOCIAL SECTION EMD ------------ -->
