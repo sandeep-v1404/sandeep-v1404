@@ -41,8 +41,8 @@
 </div>
 
 <div align="center">
-<img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=sandeep-v1404&show_icons=true&count_private=true&icon_color=f78155&title_color=f78155&color=1fdbd8&bg_color=000000&border_color=f78155&text_color=f78155" />
-<img align="right" width="450" src="http://github-readme-streak-stats.herokuapp.com?user=sandeep-v1404&date_format=M%20j%5B%2C%20Y%5D&sideNums=f78155&ring=f78155&background=000000&dates=f78155&currStreakNum=f78155&currStreakLabel=f78155&fire=f78155&sideLabels=f78155&stroke=f78155&border=f78155" />
+<img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=sandeep-v1404&show_icons=true&count_private=true&icon_color=f78155&title_color=f78155&color=1fdbd8&bg_color=000000&border_color=f78155&text_color=f78155" />
+<img align="right" width="420" src="http://github-readme-streak-stats.herokuapp.com?user=sandeep-v1404&date_format=M%20j%5B%2C%20Y%5D&sideNums=f78155&ring=f78155&background=000000&dates=f78155&currStreakNum=f78155&currStreakLabel=f78155&fire=f78155&sideLabels=f78155&stroke=f78155&border=f78155" />
 </div>
 
 <div align="center">
