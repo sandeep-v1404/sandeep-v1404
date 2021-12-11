@@ -40,9 +40,10 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=sandeep-v1404&theme=radical&bg_color=00000000&point=00000000&line=f78155&hide_border=true&custom_title=Learn,+Explore,+and+Give+back...&color=f78155&area=true&area_color=f78155">
 </div>
 
-
-<img align="left" width="410" src="https://github-readme-stats.vercel.app/api?username=sandeep-v1404&show_icons=true&count_private=true&icon_color=f78155&title_color=f78155&color=1fdbd8&bg_color=000000&border_color=f78155&text_color=f78155" />
-<img align="right" width="410" src="http://github-readme-streak-stats.herokuapp.com?user=sandeep-v1404&date_format=M%20j%5B%2C%20Y%5D&sideNums=f78155&ring=f78155&background=000000&dates=f78155&currStreakNum=f78155&currStreakLabel=f78155&fire=f78155&sideLabels=f78155&stroke=f78155&border=f78155" />
+<div align="center">
+<img width="410px" src="https://github-readme-stats.vercel.app/api?username=sandeep-v1404&show_icons=true&count_private=true&icon_color=f78155&title_color=f78155&color=1fdbd8&bg_color=000000&border_color=f78155&text_color=f78155" />
+<img width="410px" src="http://github-readme-streak-stats.herokuapp.com?user=sandeep-v1404&date_format=M%20j%5B%2C%20Y%5D&sideNums=f78155&ring=f78155&background=000000&dates=f78155&currStreakNum=f78155&currStreakLabel=f78155&fire=f78155&sideLabels=f78155&stroke=f78155&border=f78155" />
+</div>
 
 
 <div align="center">
