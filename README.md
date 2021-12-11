@@ -1,5 +1,5 @@
 <!-- ----------- HEAD SECTION START ------------ -->
-<img src="./images/black-banner.png" />
+<img src="./images/bg-black-banner.png" />
 
 <div align="center">
   <img src="./images/rainbow.png" />
