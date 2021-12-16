@@ -72,6 +72,18 @@
 
 <!-- ----------- TECH STACK SECTION END------------ -->
 
+<!-- TROPHIES SECTION START -->
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandeep-v1404&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
+
+<div align="center">
+  <img src="./images/rainbow.png" />
+</div>
+
+<!-- TROPHIES SECTION END -->
+
 <!-- ----------- BANNER SECTION START ------------ -->
 
 ![banner.png](./images/header.png)
